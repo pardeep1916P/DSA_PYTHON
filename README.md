@@ -1,2 +1,2 @@
-# DSA_PYTHON
-this repo is to show case my dsa learning in python
+## Arrays: (01/185)
+- **shuffle_mySolution - L1470**
