@@ -8,7 +8,7 @@
 
 - Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) 
 - Shuffle the Array ([LeetCode #1470](https://leetcode.com/problems/shuffle-the-array/)) ✅
-- Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/))
+- Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/)) ✅
 - Remove Element ([LeetCode #27](https://leetcode.com/problems/remove-element/))
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
 - Move Zeroes ([LeetCode #283](https://leetcode.com/problems/move-zeroes/))
