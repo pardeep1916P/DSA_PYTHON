@@ -13,7 +13,7 @@
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)) ✅
 - Move Zeroes ([LeetCode #283](https://leetcode.com/problems/move-zeroes/)) ✅
 - Merge Sorted Array ([LeetCode #88](https://leetcode.com/problems/merge-sorted-array/))
-- Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem))
+- Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem)) ✅
 - Rotate Array ([LeetCode #189](https://leetcode.com/problems/rotate-array/)) ✅
 - Dynamic Array ([HackerRank](https://www.hackerrank.com/challenges/dynamic-array/problem))
 - Watermelon ([Codeforces 4A](https://codeforces.com/problemset/problem/4/A))
