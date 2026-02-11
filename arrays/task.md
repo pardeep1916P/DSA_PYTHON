@@ -6,7 +6,7 @@
 ### 1. Basic Array Operations (11)
 > Start here! Learn array traversal, modification, and basic manipulations.
 
-- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) 
+- Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) ✅
 - Shuffle the Array ([LeetCode #1470](https://leetcode.com/problems/shuffle-the-array/)) ✅
 - Plus One ([LeetCode #66](https://leetcode.com/problems/plus-one/)) ✅
 - Remove Element ([LeetCode #27](https://leetcode.com/problems/remove-element/)) ✅
