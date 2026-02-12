@@ -21,7 +21,7 @@
 ### 2. Hashing & Frequency Count (10)
 > Learn to use hash maps/sets for O(1) lookups and counting.
 
-- Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/))
+- Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/)) ✅
 - Two Sum ([LeetCode #1](https://leetcode.com/problems/two-sum/))
 - Single Number ([LeetCode #136](https://leetcode.com/problems/single-number/))
 - Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/))
