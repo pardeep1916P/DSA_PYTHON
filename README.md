@@ -1,4 +1,4 @@
-## Arrays: (10/185)
+## Arrays: (11/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -9,3 +9,4 @@
 - **reverseArray - HR**
 - **containsDuplicate - L217**
 - **twoSum - L1**
+- **singleNumber - L136**

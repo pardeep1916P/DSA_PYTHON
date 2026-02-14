@@ -23,7 +23,7 @@
 
 - Contains Duplicate ([LeetCode #217](https://leetcode.com/problems/contains-duplicate/)) ✅
 - Two Sum ([LeetCode #1](https://leetcode.com/problems/two-sum/)) ✅
-- Single Number ([LeetCode #136](https://leetcode.com/problems/single-number/))
+- Single Number ([LeetCode #136](https://leetcode.com/problems/single-number/)) ✅
 - Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/))
 - Contains Duplicate II ([LeetCode #219](https://leetcode.com/problems/contains-duplicate-ii/))
 - Intersection of Two Arrays ([LeetCode #349](https://leetcode.com/problems/intersection-of-two-arrays/))
