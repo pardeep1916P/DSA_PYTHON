@@ -1,4 +1,4 @@
-## Arrays: (12/185)
+## Arrays: (13/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -11,3 +11,4 @@
 - **twoSum - L1**
 - **singleNumber - L136**
 - **missingNumber - L268**
+- **majorityElement - L169**
