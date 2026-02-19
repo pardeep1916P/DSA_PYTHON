@@ -1,4 +1,4 @@
-## Arrays: (13/185)
+## Arrays: (15/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -12,3 +12,6 @@
 - **singleNumber - L136**
 - **missingNumber - L268**
 - **majorityElement - L169**
+- **containsNearbyDuplicate - L219**
+- **intersection_optimal1 - L349**
+- **intersection_optimal2 - L349**
