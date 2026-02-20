@@ -27,7 +27,7 @@
 - Missing Number ([LeetCode #268](https://leetcode.com/problems/missing-number/)) ✅
 - Contains Duplicate II ([LeetCode #219](https://leetcode.com/problems/contains-duplicate-ii/)) ✅
 - Intersection of Two Arrays ([LeetCode #349](https://leetcode.com/problems/intersection-of-two-arrays/)) ✅✅
-- Intersection of Two Arrays II ([LeetCode #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/))
+- Intersection of Two Arrays II ([LeetCode #350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)) ✅
 - Find All Numbers Disappeared in an Array ([LeetCode #448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/))
 - Majority Element ([LeetCode #169](https://leetcode.com/problems/majority-element/)) ✅
 - Sparse Arrays ([HackerRank](https://www.hackerrank.com/challenges/sparse-arrays/problem))

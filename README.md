@@ -1,4 +1,4 @@
-## Arrays: (15/185)
+## Arrays: (16/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -15,3 +15,4 @@
 - **containsNearbyDuplicate - L219**
 - **intersection_optimal1 - L349**
 - **intersection_optimal2 - L349**
+- **intersect2 - L350**
