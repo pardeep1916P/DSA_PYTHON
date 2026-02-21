@@ -35,7 +35,7 @@
 ### 3. Two Pointers (6)
 > Master the technique of using two pointers from different positions.
 
-- Valid Palindrome ([LeetCode #125](https://leetcode.com/problems/valid-palindrome/))
+- Valid Palindrome ([LeetCode #125](https://leetcode.com/problems/valid-palindrome/)) ✅
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/))
 - Merge Sorted Array ([LeetCode #88](https://leetcode.com/problems/merge-sorted-array/))
 - Squares of a Sorted Array ([LeetCode #977](https://leetcode.com/problems/squares-of-a-sorted-array/))

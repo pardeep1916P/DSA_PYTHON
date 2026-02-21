@@ -1,4 +1,4 @@
-## Arrays: (16/185)
+## Arrays: (17/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -16,3 +16,4 @@
 - **intersection_optimal1 - L349**
 - **intersection_optimal2 - L349**
 - **intersect2 - L350**
+- **isPalindrome - L125**
