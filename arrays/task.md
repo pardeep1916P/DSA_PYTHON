@@ -38,7 +38,7 @@
 - Valid Palindrome ([LeetCode #125](https://leetcode.com/problems/valid-palindrome/)) ✅
 - Remove Duplicates from Sorted Array ([LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)) ✅
 - Merge Sorted Array ([LeetCode #88](https://leetcode.com/problems/merge-sorted-array/))
-- Squares of a Sorted Array ([LeetCode #977](https://leetcode.com/problems/squares-of-a-sorted-array/))
+- Squares of a Sorted Array ([LeetCode #977](https://leetcode.com/problems/squares-of-a-sorted-array/)) ✅
 - Two Sum II - Input Array Is Sorted ([LeetCode #167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/))
 - Is Subsequence ([LeetCode #392](https://leetcode.com/problems/is-subsequence/))
 
