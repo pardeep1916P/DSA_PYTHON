@@ -1,4 +1,4 @@
-## Arrays: (18/185)
+## Arrays: (19/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -18,3 +18,4 @@
 - **intersect2 - L350**
 - **isPalindrome - L125**
 - **sortedSquares_mySolution - L977**
+- **merge_mySolution - L88**
