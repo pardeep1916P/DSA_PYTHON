@@ -1,4 +1,4 @@
-## Arrays: (21/185)
+## Arrays: (22/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -21,3 +21,4 @@
 - **merge_mySolution - L88**
 - **findMaxConsecutiveOnes - L485**
 - **twoSum2 - L167**
+- **isSubsequence - L392**
