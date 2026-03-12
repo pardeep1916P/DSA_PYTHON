@@ -60,7 +60,7 @@
 ### 6. Binary Search (5)
 > Master divide and conquer on sorted arrays.
 
-- Binary Search ([LeetCode #704](https://leetcode.com/problems/binary-search/))
+- Binary Search ([LeetCode #704](https://leetcode.com/problems/binary-search/)) ✅
 - Search Insert Position ([LeetCode #35](https://leetcode.com/problems/search-insert-position/))
 - Sqrt(x) ([LeetCode #69](https://leetcode.com/problems/sqrtx/))
 - First Bad Version ([LeetCode #278](https://leetcode.com/problems/first-bad-version/))
