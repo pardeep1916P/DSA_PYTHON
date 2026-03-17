@@ -1,4 +1,4 @@
-## Arrays: (23/185)
+## Arrays: (24/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -23,3 +23,4 @@
 - **twoSum2 - L167**
 - **isSubsequence - L392**
 - **search - L704**
+- **searchInsert_mySolution - L35**
