@@ -1,4 +1,4 @@
-## Arrays: (24/185)
+## Arrays: (25/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -24,3 +24,4 @@
 - **isSubsequence - L392**
 - **search - L704**
 - **searchInsert_mySolution - L35**
+- **findMaxAverage - L643**

@@ -46,7 +46,7 @@
 > Learn fixed and variable size window techniques.
 
 - Max Consecutive Ones ([LeetCode #485](https://leetcode.com/problems/max-consecutive-ones/)) ✅
-- Maximum Average Subarray I ([LeetCode #643](https://leetcode.com/problems/maximum-average-subarray-i/))
+- Maximum Average Subarray I ([LeetCode #643](https://leetcode.com/problems/maximum-average-subarray-i/)) ✅
 - Contains Duplicate II ([LeetCode #219](https://leetcode.com/problems/contains-duplicate-ii/)) ✅
 
 ### 5. Prefix Sum (4)
