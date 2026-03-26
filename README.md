@@ -1,4 +1,4 @@
-## Arrays: (26/185)
+## Arrays: (27/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -25,4 +25,5 @@
 - **search - L704**
 - **searchInsert_mySolution - L35**
 - **findMaxAverage - L643**
-- **runningSum - l480**
+- **runningSum - L480**
+- **firstBadVersion - L278**
