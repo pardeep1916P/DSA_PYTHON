@@ -54,7 +54,7 @@
 
 - Running Sum of 1d Array ([LeetCode #1480](https://leetcode.com/problems/running-sum-of-1d-array/)) ✅
 - Range Sum Query - Immutable ([LeetCode #303](https://leetcode.com/problems/range-sum-query-immutable/))
-- Find Pivot Index ([LeetCode #724](https://leetcode.com/problems/find-pivot-index/))
+- Find Pivot Index ([LeetCode #724](https://leetcode.com/problems/find-pivot-index/)) ✅
 - Left and Right Sum Differences ([LeetCode #2574](https://leetcode.com/problems/left-and-right-sum-differences/))
 
 ### 6. Binary Search (5)
