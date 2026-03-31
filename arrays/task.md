@@ -73,7 +73,7 @@
 - Sort Array By Parity II ([LeetCode #922](https://leetcode.com/problems/sort-array-by-parity-ii/))
 - Height Checker ([LeetCode #1051](https://leetcode.com/problems/height-checker/))
 - Array Partition ([LeetCode #561](https://leetcode.com/problems/array-partition/))
-- Third Maximum Number ([LeetCode #414](https://leetcode.com/problems/third-maximum-number/))
+- Third Maximum Number ([LeetCode #414](https://leetcode.com/problems/third-maximum-number/)) ✅
 - Largest Perimeter Triangle ([LeetCode #976](https://leetcode.com/problems/largest-perimeter-triangle/))
 
 ### 8. Kadane's Algorithm (2)
