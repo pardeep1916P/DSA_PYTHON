@@ -1,4 +1,4 @@
-## Arrays: (31/185)
+## Arrays: (32/185)
 
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
@@ -32,3 +32,4 @@
 - **countNegatives - L1351**
 - **findDisappearedNumbers - L448**
 - **thirdMax - L414**
+- **leftRightDifference - L2574**
