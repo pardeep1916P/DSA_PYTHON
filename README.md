@@ -1,4 +1,4 @@
-## Arrays: (35/185)
+## Arrays: (36/185)
 
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
@@ -36,3 +36,4 @@
 - **sortArrayByParity - L905**
 - **sortArrayByParityII - L922**
 - **arrayPairSum - L561**
+- **largestPerimeter - L976**
