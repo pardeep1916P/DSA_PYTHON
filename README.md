@@ -1,4 +1,4 @@
-## Arrays: (38/185)
+## Arrays: (39/185)
 
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
@@ -39,3 +39,4 @@
 - **largestPerimeter - L976**
 - **heightChecker - L1051**
 - **maxProfit - L121**
+- **maxSubArray - L53**

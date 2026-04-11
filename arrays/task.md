@@ -79,7 +79,7 @@
 ### 8. Kadane's Algorithm (2)
 > Learn maximum subarray pattern - a must-know technique.
 
-- Maximum Subarray ([LeetCode #53](https://leetcode.com/problems/maximum-subarray/))
+- Maximum Subarray ([LeetCode #53](https://leetcode.com/problems/maximum-subarray/)) ✅
 - Best Time to Buy and Sell Stock ([LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)) ✅
 
 ### 9. Greedy (3)
