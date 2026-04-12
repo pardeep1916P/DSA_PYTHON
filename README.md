@@ -1,4 +1,4 @@
-## Arrays: (39/185)
+## Arrays: (40/185)
 
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
@@ -40,3 +40,4 @@
 - **heightChecker - L1051**
 - **maxProfit - L121**
 - **maxSubArray - L53**
+- **findContentChildren - L455**
