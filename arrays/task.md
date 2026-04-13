@@ -86,7 +86,7 @@
 > Make locally optimal choices for global optimum.
 
 - Assign Cookies ([LeetCode #455](https://leetcode.com/problems/assign-cookies/)) ✅
-- Lemonade Change ([LeetCode #860](https://leetcode.com/problems/lemonade-change/))
+- Lemonade Change ([LeetCode #860](https://leetcode.com/problems/lemonade-change/)) ✅
 - Maximize Sum Of Array After K Negations ([LeetCode #1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/))
 
 ### 10. Monotonic Stack/Queue (2)

@@ -1,4 +1,4 @@
-## Arrays: (40/185)
+## Arrays: (41/185)
 
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
@@ -41,3 +41,4 @@
 - **maxProfit - L121**
 - **maxSubArray - L53**
 - **findContentChildren - L455**
+- **lemonadeChange - L860**
