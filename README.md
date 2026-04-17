@@ -1,5 +1,4 @@
-## Arrays: (41/185)
-
+## Arrays: (42/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -42,3 +41,4 @@
 - **maxSubArray - L53**
 - **findContentChildren - L455**
 - **lemonadeChange - L860**
+- **largestSumAfterKNegations - L1005**

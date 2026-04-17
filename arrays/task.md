@@ -81,13 +81,12 @@
 
 - Maximum Subarray ([LeetCode #53](https://leetcode.com/problems/maximum-subarray/)) ✅
 - Best Time to Buy and Sell Stock ([LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)) ✅
-
 ### 9. Greedy (3)
 > Make locally optimal choices for global optimum.
 
 - Assign Cookies ([LeetCode #455](https://leetcode.com/problems/assign-cookies/)) ✅
 - Lemonade Change ([LeetCode #860](https://leetcode.com/problems/lemonade-change/)) ✅
-- Maximize Sum Of Array After K Negations ([LeetCode #1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/))
+- Maximize Sum Of Array After K Negations ([LeetCode #1005](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)) ✅
 
 ### 10. Monotonic Stack/Queue (2)
 > Use stack to find next greater/smaller elements.
