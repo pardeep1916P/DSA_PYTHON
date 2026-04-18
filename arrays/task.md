@@ -117,7 +117,7 @@
 ### 13. Additional Practice - LeetCode Easy (10)
 > More array practice with Python-friendly problems.
 
-- Kids With the Greatest Number of Candies ([LeetCode #1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/))
+- Kids With the Greatest Number of Candies ([LeetCode #1431](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)) ✅
 - Richest Customer Wealth ([LeetCode #1672](https://leetcode.com/problems/richest-customer-wealth/))
 - Count Good Triplets ([LeetCode #1534](https://leetcode.com/problems/count-good-triplets/))
 - Sum of All Odd Length Subarrays ([LeetCode #1588](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/))
