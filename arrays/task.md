@@ -16,7 +16,7 @@
 - Array Left Rotation ([HackerRank](https://www.hackerrank.com/challenges/array-left-rotation/problem)) ✅
 - Rotate Array ([LeetCode #189](https://leetcode.com/problems/rotate-array/)) ✅
 - Dynamic Array ([HackerRank](https://www.hackerrank.com/challenges/dynamic-array/problem))
-- Watermelon ([Codeforces 4A](https://codeforces.com/problemset/problem/4/A))
+- Watermelon ([Codeforces 4A](https://codeforces.com/problemset/problem/4/A)) ✅
 
 ### 2. Hashing & Frequency Count (10)
 > Learn to use hash maps/sets for O(1) lookups and counting.
