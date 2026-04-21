@@ -91,7 +91,7 @@
 ### 10. Monotonic Stack/Queue (2)
 > Use stack to find next greater/smaller elements.
 
-- Next Greater Element I ([LeetCode #496](https://leetcode.com/problems/next-greater-element-i/))
+- Next Greater Element I ([LeetCode #496](https://leetcode.com/problems/next-greater-element-i/)) ✅
 - Daily Temperatures ([LeetCode #739](https://leetcode.com/problems/daily-temperatures/))
 
 ### 11. Heap/Priority Queue (2)

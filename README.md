@@ -1,4 +1,4 @@
-## Arrays: (44/185)
+## Arrays: (45/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -44,3 +44,4 @@
 - **largestSumAfterKNegations - L1005**
 - **kidsWithCandies - L1431**
 - **Watermelon - CF4A**
+- **nextGreaterElement - L496**
