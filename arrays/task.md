@@ -126,7 +126,7 @@
 - Count Equal and Divisible Pairs in an Array ([LeetCode #2176](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/))
 - Find Target Indices After Sorting Array ([LeetCode #2089](https://leetcode.com/problems/find-target-indices-after-sorting-array/))
 - Count Hills and Valleys in an Array ([LeetCode #2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/))
-- Maximum Count of Positive and Negative Integers ([LeetCode #2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/))
+- Maximum Count of Positive and Negative Integers ([LeetCode #2529](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)) ✅
 
 ---
 
