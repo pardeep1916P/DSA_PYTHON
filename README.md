@@ -1,3 +1,7 @@
+## LinkedList: (01/52)
+- **deleteDuplicates - L83**
+
+
 ## Arrays: (46/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
