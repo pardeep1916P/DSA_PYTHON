@@ -15,8 +15,8 @@
 
 - Remove Duplicates from Sorted List ([LeetCode #83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)) ✅
 - Reverse Print ([HackerRank](https://www.hackerrank.com/challenges/reverse-print-linked-list/problem))
-- Remove Linked List Elements ([LeetCode #203](https://leetcode.com/problems/remove-linked-list-elements/))
-- Merge Two Sorted Lists ([LeetCode #21](https://leetcode.com/problems/merge-two-sorted-lists/))
+- Remove Linked List Elements ([LeetCode #203](https://leetcode.com/problems/remove-linked-list-elements/)) 
+- Merge Two Sorted Lists ([LeetCode #21](https://leetcode.com/problems/merge-two-sorted-lists/)) ✅
 - Linked List Components ([LeetCode #817](https://leetcode.com/problems/linked-list-components/))
 - Count Nodes of a Linked List ([HackerRank](https://www.hackerrank.com/challenges/count-nodes/problem))
 

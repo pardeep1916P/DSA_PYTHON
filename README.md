@@ -1,5 +1,6 @@
-## LinkedList: (01/52)
+## LinkedList: (02/52)
 - **deleteDuplicates - L83**
+- **mergeTwoLists - L21**
 
 
 ## Arrays: (46/185)
