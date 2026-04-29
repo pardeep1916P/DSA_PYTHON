@@ -23,7 +23,7 @@
 ### 3. Detection & Analysis (6)
 
 - Palindrome Linked List ([LeetCode #234](https://leetcode.com/problems/palindrome-linked-list/))
-- Linked List Cycle ([LeetCode #141](https://leetcode.com/problems/linked-list-cycle/))
+- Linked List Cycle ([LeetCode #141](https://leetcode.com/problems/linked-list-cycle/)) ✅
 - Middle of Linked List ([LeetCode #876](https://leetcode.com/problems/middle-of-the-linked-list/))
 - Convert Binary Number in Linked List to Integer ([LeetCode #1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/))
 - Check If Word Exists In Linked List ([LeetCode #2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/))
