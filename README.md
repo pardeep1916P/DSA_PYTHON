@@ -1,7 +1,8 @@
-## LinkedList: (03/52)
+## LinkedList: (04/52)
 - **deleteDuplicates - L83**
 - **mergeTwoLists - L21**
 - **hasCycle - L141**
+- **middleNode - L876**
 
 
 ## Arrays: (46/185)
