@@ -273,7 +273,7 @@
 ### 13. Additional Practice - LeetCode Medium (6)
 
 - Find the Duplicate Number ([LeetCode #287](https://leetcode.com/problems/find-the-duplicate-number/))
-- Find First and Last Position of Element ([LeetCode #34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))
+- Find First and Last Position of Element ([LeetCode #34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)) ✅
 - Count Primes ([LeetCode #204](https://leetcode.com/problems/count-primes/))
 - Maximum Distance in Arrays ([LeetCode #624](https://leetcode.com/problems/maximum-distance-in-arrays/))
 - Summary Ranges ([LeetCode #228](https://leetcode.com/problems/summary-ranges/))
