@@ -5,7 +5,7 @@
 - **middleNode - L876**
 
 
-## Arrays: (47/185)
+## Arrays: (48/185)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -54,3 +54,4 @@
 - **nextGreaterElement - L496**
 - **maximumCount - L2529**
 - **searchRange - L34**
+- **rotatedSearch - L33**

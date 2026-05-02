@@ -194,7 +194,7 @@
 > Search on answer space and rotated arrays.
 
 - Search a 2D Matrix ([LeetCode #74](https://leetcode.com/problems/search-a-2d-matrix/))
-- Search in Rotated Sorted Array ([LeetCode #33](https://leetcode.com/problems/search-in-rotated-sorted-array/))
+- Search in Rotated Sorted Array ([LeetCode #33](https://leetcode.com/problems/search-in-rotated-sorted-array/)) ✅
 - Search in Rotated Sorted Array II ([LeetCode #81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/))
 - Find Minimum in Rotated Sorted Array ([LeetCode #153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/))
 - Find First and Last Position of Element in Sorted Array ([LeetCode #34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/))
