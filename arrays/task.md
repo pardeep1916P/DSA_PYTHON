@@ -3,7 +3,7 @@
 
 ## EASY (74 Problems)
 
-### 1. Basic Array Operations (11)
+### 1. Basic Array Operations (12)
 > Start here! Learn array traversal, modification, and basic manipulations.
 
 - Reverse an Array ([HackerRank](https://www.hackerrank.com/challenges/arrays-ds/problem)) ✅
@@ -17,6 +17,7 @@
 - Rotate Array ([LeetCode #189](https://leetcode.com/problems/rotate-array/)) ✅
 - Dynamic Array ([HackerRank](https://www.hackerrank.com/challenges/dynamic-array/problem))
 - Watermelon ([Codeforces 4A](https://codeforces.com/problemset/problem/4/A)) ✅
+- Pascal's Triangle ([LeetCode #118](https://leetcode.com/problems/pascals-triangle/)) ✅
 
 ### 2. Hashing & Frequency Count (10)
 > Learn to use hash maps/sets for O(1) lookups and counting.

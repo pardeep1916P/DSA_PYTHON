@@ -6,7 +6,7 @@
 - **reverseList - L206**
 
 
-## Arrays: (48/185)
+## Arrays: (49/186)
 - **shuffle_mySolution - L1470**
 - **onePlus - L66**
 - **removeElement - L27**
@@ -56,3 +56,4 @@
 - **maximumCount - L2529**
 - **searchRange - L34**
 - **rotatedSearch - L33**
+- **generate - L118
