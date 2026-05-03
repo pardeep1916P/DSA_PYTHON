@@ -40,7 +40,7 @@
 
 ### 2. List Reversal & Reordering (4)
 
-- Reverse Linked List ([LeetCode #206](https://leetcode.com/problems/reverse-linked-list/))
+- Reverse Linked List ([LeetCode #206](https://leetcode.com/problems/reverse-linked-list/)) ✅
 - Rotate List ([LeetCode #61](https://leetcode.com/problems/rotate-list/))
 - Odd Even Linked List ([LeetCode #328](https://leetcode.com/problems/odd-even-linked-list/))
 - Reorder List ([LeetCode #143](https://leetcode.com/problems/reorder-list/))
